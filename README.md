@@ -4,7 +4,7 @@ type in part of the file name, it will filter on that
 ```
 npx jest linear
 ```
-## filr contents 
+## file contents 
 scripts > src > day 1
 
 
