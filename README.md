@@ -1,3 +1,13 @@
+## run tests
+type in part of the file name, it will filter on that
+
+```
+npx jest linear
+```
+## filr contents 
+scripts > src > day 1
+
+
 ## Developed live on twitch
 [ThePrimeagen](https://twitch.tv/ThePrimeagen)
 
